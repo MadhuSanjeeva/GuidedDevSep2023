@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "58e750f3-5ecc-44bb-a2b8-c19d1880cde1",
+    "Name": "UsrApp_nglotyg",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_nglotyg.csproj",
+    "DependsOn": []
+  }
+}
