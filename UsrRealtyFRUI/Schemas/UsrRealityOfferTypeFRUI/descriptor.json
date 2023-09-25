@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "35b59f8c-ee1b-43d7-b03b-63af55a24eb9",
+    "Name": "UsrRealityOfferTypeFRUI",
+    "ModifiedOnUtc": "\/Date(1695630316000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty Offer Type FRUI",
+    "DependsOn": []
+  }
+}
